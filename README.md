@@ -49,7 +49,6 @@ It was built as a hands-on practice project while preparing for the **Microsoft 
                                                                         └────────────────────┘
 ```
 
-*(Replace this ASCII diagram with an exported image at `docs/architecture.png` for a polished look — draw.io / Excalidraw work well.)*
 
 Orchestration: a **Fabric Data Pipeline** (`Sales_Medallion_Pipeline`) chains the Silver and Gold notebooks sequentially with a scheduled trigger.
 
@@ -179,4 +178,4 @@ A Fabric **Semantic Model** was built directly on top of the Gold layer using **
 
 ## 👤 Author
 
-**Md Yeakub** — Data Analyst | Power BI Developer | Aspiring Data Engineer (DP-700 candidate)
+**Md Yeakub** — Data Analyst | Power BI Developer | Aspiring Data Engineer
