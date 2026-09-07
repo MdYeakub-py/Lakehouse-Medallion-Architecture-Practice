@@ -25,6 +25,10 @@ It was built as a hands-on practice project while preparing for the **Microsoft 
 
 <img width="3456" height="296" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/647958a9-e0d5-4a46-b88e-5225738a0b57" />
 
+
+
+
+
 ```
 ┌─────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌────────────────────┐
 │   Raw CSVs   │ ──▶ │   Bronze Layer   │ ──▶ │   Silver Layer   │ ──▶ │     Gold Layer      │
